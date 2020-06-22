@@ -8,7 +8,7 @@ The location for the key and csr is /Users/username/ or from the Mac desktop men
 Prerequisits:
 1. Macbook
 2. python3   (need homebrew to install python3) (brew install python3) 
-3. pyOpenSSL (pip install pyOpenSSL)
+3. pyOpenSSL (pip3 install pyOpenSSL)
 
 Running Instructions:
 Download the file csrgenerator.py
