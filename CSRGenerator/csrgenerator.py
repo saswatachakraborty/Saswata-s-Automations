@@ -57,7 +57,7 @@ def generatecsr():
         o = input("Enter your organization: ")
         ou = input("Enter your organizational unit(ex. BT): ")
         em = input("Enter Email: ")
-    else
+    else:
         print ('Wrong Choice')
         sys.exit(1)
  
