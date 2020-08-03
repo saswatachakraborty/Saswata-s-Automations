@@ -1,0 +1,15 @@
+ter len 0
+Show run
+Show ver
+Show mod
+Show redundancy
+Show env
+Show boot
+Show ip ospf nei
+Show int des | ex unassigned
+Show int status
+Show auth session
+show etherchannel summary
+Show switch virtual
+Show cdp ne
+Show inv
