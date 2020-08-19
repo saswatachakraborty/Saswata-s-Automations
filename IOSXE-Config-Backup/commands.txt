@@ -13,3 +13,5 @@ show etherchannel summary
 Show switch virtual
 Show cdp ne
 Show inv
+Show env all
+Show switch
